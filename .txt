@@ -1,0 +1,9 @@
+menu rekap absen untuk emc (semua) dan karywan umum (perorang) -> tabel
+filter bulan tahun
+- no
+- tanggal
+- jam masuk dan pulang
+- point masuk pulang
+- action (detail)
+- import data karywan
+- password seperti tgl lahir

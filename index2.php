@@ -1,0 +1,1 @@
+<?php echo 'Under maintenance. wait until 06.30 WIB';?>
