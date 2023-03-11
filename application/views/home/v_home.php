@@ -1167,7 +1167,7 @@
                                 
                                 <div class="header">
 
-                                    <h2>PENGUMUMAN</h2>
+                                    <h2>PENGUMUMAN KARYAWAN</h2>
                                     <!-- pepek -->
                                     <ul class="header-dropdown m-r-5">
                             <li class="dropdown">
@@ -1189,7 +1189,7 @@
                                 
 
                              
-                                <div class="body" style="margin-bottom: 15px;">
+                                <div class="body" style="margin-bottom: 15 px;">
                                     
                                 <?php foreach ($q_ks as $row): ?>
                                     <label class="text-center"> </label>
